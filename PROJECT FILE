@@ -1,0 +1,273 @@
+<!DOCTYPE HTML>
+<head>
+<title> FIND CAREER</title>
+</head>
+<body>
+<style>
+body {
+  background-image: url('  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bb9vxzLQk7Ul7f3WK3imBKVJbTYCi3bYzQ&s'); background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+ 
+<h1
+style="background-color:yellow;font-size:55"><b><u><i><MARQUEE> CHOOSE YOUR CAREER</MARQUEE></i></u></b></H1>
+ 
+ <style>
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+<body>
+
+ <P
+style=font-size:25> fill your detail <BR>
+</P>
+<div>
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name </label>
+    <input type="text" id="lname" name="lastname" placeholder="your last name">
+<br><br>
+  <label for="mno.">contact no.</label>
+    <input type="int" id="mno." name="contact no." placeholder=" 91+........">
+    <br><br>
+
+  <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+ <option value="afghanistan">AFGHANISTAN</option>
+      <option value="albania">ALBANIA</option>
+      <option value="india">INDIA</option>
+ <option value="pakistan">PAKISTAN</option>
+      <option value="maxico">MAXICO</option>
+      <option value="mongolia">MONGOLIA</option>
+ <option value="naura">NSURA</option>
+      <option value="hongkock">HONGKOCK</option>
+      <option value="nepal">NEPAL</option>
+ <option value="nassu">NASSU</option>
+      <option value="qatar">QATAR</option>
+      <option value="russia">RUSSIA</option>
+    </select>
+  <label for="state">state</label>
+    <select id="state" name="state">
+      <option value="up">up</option>
+      <option value="assam">assam</option>
+      <option value="goa">goa</option>
+ <option value="bihar">bihar</option>
+      <option value="gujarat">gujarat</option>
+      <option value="delhi">delhi</option>
+ <option value="haryana">haryana</option>
+      <option value="jharkhand">jharkhand</option>
+      <option value="kerala">kerala</option>
+ <option value="mumbai">mumbai</option>
+      <option value="manipur">manipur</option>
+      <option value="madhya pradesh">madhya pradesh</option>
+ <option value="punjab">punjab</option>
+      <option value="telangana">telangana</option>
+      <option value="sikkim">sikkim</option>
+    </select>
+ 
+  
+    <input button type="submit" onclick="open('MR.PERFECTIONIST. html')" value="Submit"></button>  
+ 
+ 
+  
+  </form>
+
+
+
+</div>
+
+ 
+
+ 
+ 
+</BODY>
+</HTML>
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+ 
+
+ 
+<title>Document</title>
+
+</head>
+
+<body>
+
+<h1 style=font-size:25> mandatory to fill </h1>
+ <P>
+ 
+</P>
+<div>
+  <form action="/action_page.php">
+    <label for="class">class</label>
+    <input type="text" id="class" name="class" placeholder="10/12">
+
+   
+  <label for="stream">stream</label>
+    <input type="text" id="stream" name="stream" placeholder="science/commerce/arts">
+    <label for="entrance">entrance </label>
+    <input type="text" id="entrance" name="entrance" placeholder="yes/no">
+<br><br>
+ <label for="entrance type">entrance name </label>
+    <input type="text" id="entrance type" name="entrance name" placeholder=" neet/jee/clat...etc">
+<br><br> </select>
+
+   
+  
+    <input button type="submit" onclick="open('MR.PERFECTIONIST. html')" value="Submit"></button>  
+ 
+ 
+  
+  </form>
+
+
+
+</div>
+
+ 
+
+ 
+ 
+</BODY>
+
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+ 
+
+ 
+<title>Document</title>
+
+</head>
+
+<body>
+
+<h1 style=font-size:25> wants to do</h1>
+ <P>
+ 
+</P>
+<div>
+  <form action="/action_page.php">
+    <label for="course">course</label>
+    <input type="text" id="course" name="course" placeholder="drgree/diploma/certificate">
+  <label for="college">college</label>
+    <input type="text" id="college" name="college" placeholder="near by/pan India">
+ </select>
+
+   
+  
+    <input button type="submit" onclick="open('MR.PERFECTIONIST. html')" value="Submit"></button>  
+ 
+ 
+  
+  </form>
+
+
+
+</div>
+
+ 
+
+ 
+ 
+</BODY>
+
+
+</body>
+
+</html> 
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+ 
+
+ 
+<title>Document</title>
+
+</head>
+
+<body>
+
+<h1 style=font-size:25>courses for you</h1>
+ <P>
+ 
+</P>
+<ol>
+  <li>degree courses
+  <ul>
+      <li>mbbs</li>
+      <li>bams</li>
+      <li>bhms</li>
+  <li>bums</li>
+      <li>ott</li>
+      <li>bpt</li>
+    </ul></li>
+
+  <li>diploma courses
+  <ul>
+      <li>forensic</li>
+      <li>dot</li>
+      <li>d-tech</li>
+    </ul></li>
+  <li>certificate courses
+  <ul>
+      <li>computer</li>
+      <li>teachimg</li>
+      <li>bba</li>
+    </ul></li>
+
+</ol>
+</body>
+</html>
